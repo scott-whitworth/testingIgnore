@@ -1,0 +1,7 @@
+**/bin
+**/.vscode
+*.exe
+*.json
+*final-optimization.bin
+*final-optimization.txt
+*orbitalMotion-accel.bin
